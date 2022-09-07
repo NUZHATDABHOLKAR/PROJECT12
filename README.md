@@ -1,1 +1,18 @@
-# PROJECT12
+ ## Author 
+ DABHOLKAR NUZHAT 
+ 
+# Project Title
+PROJECT:12(HTML & CSS)
+IN THIS PROJECT I USED THE CSS FLEX PROPERTY.
+MOSTLY I USED FLEX ROW  PROPERTY. IT'S A VERY EASY AND SIMPLE PROJECT AND YES IT IS MY TWELEVTH PROJECT .
+
+
+
+ # What you have learnt in this project
+FLEX PROPERTY 
+
+## Time
+ NEED 6 HOURS TO DO THIS PROJECT
+
+## 🔗 Links
+[PROJECT  12 ](https://project12a.netlify.app/)
