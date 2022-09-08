@@ -8,7 +8,6 @@ PROJECT:12(HTML & CSS)
 FLEX PROPERTY & MEDIA QUERY
 
 ## Time
- NEED 6 HOURS TO DO THIS PROJECT
-
+  9 HOURS 
 ## 🔗 Links
 [PROJECT  12 ](https://project12a.netlify.app/)
